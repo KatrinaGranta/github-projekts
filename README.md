@@ -1,4 +1,4 @@
-# Mans pirmais Git / GitHub projekts
+﻿# Mans pirmais Git / GitHub projekts
 ### *Uzdevumu saraksts:*
 - [x] Izveidots Git projekts lokāli
 - [x] Izveidots GitHUb konts
@@ -7,3 +7,6 @@
 - [ ] Papildinātas GitHub krātuves saturs iegūts lokālai lietošanai
 - [ ] Jauna zara izveide GitHub
 - [ ] Jaunizveidotā zara iegūšana lokālai lietošanai
+- [ ] Lokālā Git satura papildināšana
+- [ ] Lokālā Git satura atkārtotta izvietošana Git krātuvē
+
